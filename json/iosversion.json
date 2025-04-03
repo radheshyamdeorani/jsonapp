@@ -1,0 +1,54 @@
+{
+   "ios": {
+       "versionName": "1.0",
+       "versionCode": 1,
+       "updateType": 0,
+       "allowAppBundle": [
+         1,2,3,4
+       ]
+   },
+   "mac" : {
+       "versionName": "1.0",
+       "versionCode": 1,
+       "updateType": 0,
+       "allowAppBundle": [
+         1,2,3,4
+       ]
+   },
+   "tv" : {
+       "versionName": "1.0",
+       "versionCode": 1,
+       "updateType": 0,
+       "allowAppBundle": [
+         1,2,3,4
+       ]
+   },
+
+  "pro": {
+    "isAllow": true,
+    "otherAllow": true
+  },
+  "stopApp": false,
+  "contact": {
+    "email": "xpiptv.player@gmail.com",
+    "telegram": "https://t.me/xtreamplayer_devcoder",
+    "telegramGroup": "https://t.me/+XwP1h6-KQEgyYTI1",
+    "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
+    "skype": "https://join.skype.com/invite/Vpftk3rQnbBH",
+    "phone": "",
+    "insta": "",
+    "fb": "",
+    "website": "https://xpiptv.web.app/"
+  },
+  "appInfo": {
+    "tmKey": "1958e649d7ff65132ec16690590ec0ab",
+    "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
+    "storeUrl": ""
+  },
+  "ads": {
+    "adBannerId": "",
+    "isAdAllowOtherStoreApp": false,
+    "isTvAd": false,
+    "isLimitedAds": true
+  }
+}
