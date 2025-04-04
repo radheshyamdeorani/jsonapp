@@ -4,7 +4,7 @@
        "versionCode": 1,
        "updateType": 0,
        "allowAppBundle": [
-         1,2,3,4
+         "1","2","3","4"
        ]
    },
    "mac" : {
@@ -12,7 +12,7 @@
        "versionCode": 1,
        "updateType": 0,
        "allowAppBundle": [
-         1,2,3,4
+         "1","2","3","4"
        ]
    },
    "tv" : {
@@ -20,7 +20,7 @@
        "versionCode": 1,
        "updateType": 0,
        "allowAppBundle": [
-         1,2,3,4
+         "1","2","3","4"
        ]
    },
 
