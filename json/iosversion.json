@@ -31,14 +31,14 @@
   "stopApp": false,
   "contact": {
     "email": "xpiptv.player@gmail.com",
-    "telegram": "https://t.me/xtreamplayer_devcoder",
-    "telegramGroup": "https://t.me/+XwP1h6-KQEgyYTI1",
-    "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
-    "skype": "https://join.skype.com/invite/Vpftk3rQnbBH",
+    "telegram": "xtreamplayer_devcoder",
+    "telegramGroup": "+XwP1h6-KQEgyYTI1",
+    "youtube": "UCm0YTpSLECS9cqaOEvyyKlA",
+    "skype": "Vpftk3rQnbBH",
     "phone": "",
     "insta": "",
     "fb": "",
-    "website": "https://xpiptv.web.app/"
+    "website": "https://xpiptv.vercel.app/"
   },
   "appInfo": {
     "tmKey": "1958e649d7ff65132ec16690590ec0ab",
