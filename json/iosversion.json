@@ -33,8 +33,8 @@
     "email": "xpiptv.player@gmail.com",
     "telegram": "xtreamplayer_devcoder",
     "telegramGroup": "+XwP1h6-KQEgyYTI1",
+    "wChannel": "",
     "youtube": "UCm0YTpSLECS9cqaOEvyyKlA",
-    "skype": "Vpftk3rQnbBH",
     "phone": "",
     "insta": "",
     "fb": "",
@@ -43,10 +43,10 @@
   "appInfo": {
     "tmKey": "1958e649d7ff65132ec16690590ec0ab",
     "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-    "storeUrl": ""
+    "storeUrl": "https://apps.apple.com/us/app/6744047936"
   },
   "ads": {
-    "adBannerId": "",
+    "adBannerId": "ca-app-pub-9466208912171538/5483834554",
     "isAdAllowOtherStoreApp": false,
     "isTvAd": false,
     "isLimitedAds": true
