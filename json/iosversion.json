@@ -1,29 +1,37 @@
 {
-   "ios": {
-       "versionName": "1.0",
-       "versionCode": 1,
-       "updateType": 0,
-       "allowAppBundle": [
-         "1","2","3","4"
-       ]
-   },
-   "mac" : {
-       "versionName": "1.0",
-       "versionCode": 1,
-       "updateType": 0,
-       "allowAppBundle": [
-         "1","2","3","4"
-       ]
-   },
-   "tv" : {
-       "versionName": "1.0",
-       "versionCode": 1,
-       "updateType": 0,
-       "allowAppBundle": [
-         "1","2","3","4"
-       ]
-   },
-
+  "ios": {
+    "versionName": "1.0.1",
+    "versionCode": 2,
+    "updateType": 0,
+    "allowAppBundle": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "mac": {
+    "versionName": "1.0.1",
+    "versionCode": 2,
+    "updateType": 0,
+    "allowAppBundle": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "tv": {
+    "versionName": "1.0",
+    "versionCode": 1,
+    "updateType": 0,
+    "allowAppBundle": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
   "pro": {
     "isAllow": true,
     "otherAllow": true
@@ -33,7 +41,7 @@
     "email": "xpiptv.player@gmail.com",
     "telegram": "xtreamplayer_devcoder",
     "telegramGroup": "+XwP1h6-KQEgyYTI1",
-    "wChannel": "",
+    "wChannel": "0029Vb0bQBsAO7R9dHkXK11M",
     "youtube": "UCm0YTpSLECS9cqaOEvyyKlA",
     "phone": "",
     "insta": "",
@@ -50,5 +58,8 @@
     "isAdAllowOtherStoreApp": false,
     "isTvAd": false,
     "isLimitedAds": true
+  },
+  "block": {
+    "p3": "etrontv"
   }
 }
