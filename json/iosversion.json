@@ -1,7 +1,7 @@
 {
   "ios": {
-    "versionName": "1.0.2",
-    "versionCode": 3,
+    "versionName": "1.1",
+    "versionCode": 4,
     "updateType": 0,
     "allowAppBundle": [
       "3",
@@ -52,7 +52,7 @@
     "storeUrl": "https://apps.apple.com/us/app/6744047936"
   },
   "ads": {
-    "adBannerId": "ca-app-pub-9466208912171538/5483834554",
+    "adBannerId": "ca-app-pub-9466208912171538/5464943036",
     "isAdAllowOtherStoreApp": false,
     "isTvAd": false,
     "isLimitedAds": true
