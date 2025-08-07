@@ -1,10 +1,10 @@
 {
   "ios": {
-    "versionName": "1.1",
-    "versionCode": 4,
+    "versionName": "1.5",
+    "versionCode": 13,
     "updateType": 0,
     "allowAppBundle": [
-     "8","9","10","11","12","13","14","15","16","17","18","19","20"
+     "13","14","15","16","17","18","19","20"
     ]
   },
   "mac": {
