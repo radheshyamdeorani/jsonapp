@@ -55,7 +55,7 @@
     "adIntersId": "ca-app-pub-9466208912171538/8054691122",
     "isAdAllowOtherStoreApp": false,
     "isTvAd": false,
-    "isLimitedAds": true
+    "isLimitedAds": false
   },
   "block": {
     "p3": "etrontv"
